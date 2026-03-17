@@ -1,4 +1,4 @@
-# martes-tarde-programacion-grupo-fondo
+![FOTO CESAR](https://github.com/user-attachments/assets/d919d7f8-ba8d-44d8-89cf-790282853540)# martes-tarde-programacion-grupo-fondo
 
 ## Programación 2 - UADE  
 Grupo del fondo – Martes tarde  
@@ -71,6 +71,8 @@ Su objetivo es continuar creciendo en el área de desarrollo de software, combin
 ---
 
 ### César Almonacid
+![FOTO CESAR](https://github.com/user-attachments/assets/91f74c07-136e-45e3-ba86-3f876d380d1e)
+
 
 #### Estudios
 - Estudiante de Tecnicatura en Desarrollo de Software en UADE  
