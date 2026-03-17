@@ -91,3 +91,28 @@ Su objetivo es continuar creciendo en el área de desarrollo de software, combin
 ## Objetivo
 
 Capacitarse en desarrollo de software con foco en aprendizaje práctico, incorporación del idioma inglés y preparación para aportar valor en el mercado laboral.
+
+### Fernando Ezequiel Almirón
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/b0c81bdb-8788-41db-9e94-e699bba17d89" width="150"/>
+</p>
+
+-Estudiante en UADE (Tecnicatura en Desarrollo de Software - 2do año)  
+-Edad: 27 años  
+
+### Lenguajes y Tecnologías:
+- Python (básico)  
+- Java (básico)  
+- Análisis de sistemas  
+- Testing de software  
+- Lógica de programación  
+
+### Idiomas: 
+- Inglés (básico)  
+
+### Proyectos: 
+- DigitalStock→ Sistema de gestión de inventario desarrollado en Python, con manejo de datos en JSON y funcionalidades para control de stock.  https://github.com/FerAlmiron/prog1-equipo-1X
+
+### Formación: 
+- Técnico Electromecánico
