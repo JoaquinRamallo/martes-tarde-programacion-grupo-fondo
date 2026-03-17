@@ -76,3 +76,19 @@ Mi objetivo es seguir creciendo en el área del desarrollo de software, combinan
 
 
 
+
+ALMONACID CESAR
+
+-ESTUDIOS:
+Actual estudiante de Tecnicatura en Software en UADE.
+Ex estudiante de Diseño Industrial en UBA.
+
+-EXPERIENCIA:
+Actual asistente de arte en cine/tv/public/teatro/evento.
+Ex asistente administrativo y auditor en el Gob. de la Ciudad.
+
+-CONOCIMIENTOS:
+Google Workspace / Microsoft Office
+Trello / Figma / Miro
+Ingles Bilingue / Tecnico
+Python / HTLM / C++
