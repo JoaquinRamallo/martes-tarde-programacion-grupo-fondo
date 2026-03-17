@@ -50,8 +50,8 @@
   
 ---
 
-- Cruz Alejandro Lobo
-- <p align="center">
+###Cruz Alejandro Lobo
+<p align="center">
    <img src="https://github.com/user-attachments/assets/d3ca2ebf-9ebb-474d-8f7b-77e0a3db04ac" width="150"/>
 </p>
 
@@ -64,7 +64,7 @@ Mi objetivo es seguir creciendo en el área del desarrollo de software, combinan
 
 ## Tecnologías y herramientas
 
- programación:**- **Lenguajes de Python, JavaScript web:** HTML, CSS, Bootstrap  
+-**programación:**- **Lenguajes de Python, JavaScript web:** HTML, CSS, Bootstrap  
 - **Manejo de datos:** JSON, SQLite (nivel básico)  
 - **Conexión y despliegue:** Integración de proyectos con servidores y puesta en línea  
 - **Diseño y prototipado:** Figma 
