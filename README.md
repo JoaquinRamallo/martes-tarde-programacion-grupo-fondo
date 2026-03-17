@@ -47,11 +47,15 @@
 
 ### Objetivo
 - Capacitarme en desarrollo de software con foco en aprendizaje real, incorporar inglés y prepararme para aportar un gran valor en el mercado laboral.
+  
+---
 
 - Cruz Alejandro Lobo
-- ![Foto Cruz](https://github.com/user-attachments/assets/d3ca2ebf-9ebb-474d-8f7b-77e0a3db04ac)
+- <p align="center">
+   <img src="https://github.com/user-attachments/assets/d3ca2ebf-9ebb-474d-8f7b-77e0a3db04ac" width="150"/>
+</p>
 
-Tengo 24 años y soy estudiante actualmente en la  **UADE**,cursando el 2do año de mi carrera.  
+-Tengo 24 años y soy estudiante actualmente en la  **UADE**,cursando el 2do año de mi carrera.  
 Anteriormente estudié en la **UTN**, participé en diversos proyectos académicos, entre ellos el desarrollo de un **videojuego de plataformas** como proyecto final.  
 
 En la actualidad me encuentro trabajando de manera profesional en el desarrollo de un **sistema de gestión de stock y cobranzas** para una sodería, aplicando mis conocimientos en programación.  
@@ -66,7 +70,7 @@ Mi objetivo es seguir creciendo en el área del desarrollo de software, combinan
 - **Diseño y prototipado:** Figma 
 - **Habilidades adicionales:** Lógica de programación, trabajo en equipo, resolución de problemas
 #### Idiomas
-- Inglés (Básico)  
+- Inglés (Intermedio)  
 
 ---
 
