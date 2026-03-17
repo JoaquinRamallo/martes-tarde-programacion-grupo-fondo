@@ -16,7 +16,9 @@ Idiomas:
 Proyectos:
 - App de Finanzas Personales (MyFinance)
 - Proyecto QA / Testing (Grupo QA 4)
+
 - (Repositorios disponibles en GitHub)
 LinkedIn: https://www.linkedin.com/in/joaquin-ramallo-769759291/
 
 Integrante 2 - Massimo Trovato - 
+![IMG-20260317-WA0051](https://github.com/user-attachments/assets/f77e626e-9af5-401f-aec6-2308a3816e51)
