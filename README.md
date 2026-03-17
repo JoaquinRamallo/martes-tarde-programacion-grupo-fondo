@@ -41,7 +41,11 @@ LinkedIn: https://www.linkedin.com/in/joaquin-ramallo-769759291/
 </p>
 
 - Estudiante en UADE (Tecnicatura en Desarrollo de Software - 2do año)  
-- Edad: 20 años  
+- Edad: 20 años
+
+## Objetivo
+
+Capacitarse en desarrollo de software con foco en aprendizaje práctico, incorporación del idioma inglés y preparación para aportar valor en el mercado laboral.
 
 ---
 
@@ -94,10 +98,6 @@ Su objetivo es continuar creciendo en el área de desarrollo de software, combin
 
 ---
 
-## Objetivo
-
-Capacitarse en desarrollo de software con foco en aprendizaje práctico, incorporación del idioma inglés y preparación para aportar valor en el mercado laboral.
-
 ### Fernando Ezequiel Almirón
 
 <p align="center">
@@ -130,9 +130,9 @@ Capacitarse en desarrollo de software con foco en aprendizaje práctico, incorpo
 </p>
 
 -Estudiante en UADE (Tecnicatura en Desarrollo de Software - 2do año)  
--Edad: 28 años  
+- Edad: 28 años  
 - Nacionalidad colombiana  
 - Lenguaje basico de HTML, CSS, PYTHON
-- 
+  
 ---
 
