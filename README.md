@@ -93,7 +93,7 @@ Su objetivo es continuar creciendo en el área de desarrollo de software, combin
 #### Conocimientos
 - Google Workspace / Microsoft Office  
 - Trello / Figma / Miro  
-- Inglés bilingüe técnico  
+- Inglés bilingüe y técnico  
 - Python / HTML / C++  
 
 ---
