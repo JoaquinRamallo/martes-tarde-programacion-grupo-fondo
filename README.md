@@ -1,4 +1,4 @@
-![FOTO CESAR](https://github.com/user-attachments/assets/d919d7f8-ba8d-44d8-89cf-790282853540)# martes-tarde-programacion-grupo-fondo
+# martes-tarde-programacion-grupo-fondo
 
 ## Programación 2 - UADE  
 Grupo del fondo – Martes tarde  
