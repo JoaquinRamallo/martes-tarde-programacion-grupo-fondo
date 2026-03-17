@@ -122,3 +122,13 @@ Capacitarse en desarrollo de software con foco en aprendizaje práctico, incorpo
 
 ### Formación: 
 - Técnico Electromecánico
+---
+### carlos alvarez
+- <img width="348" height="614" alt="Captura de pantalla 2026-03-17 150626" src="https://github.com/user-attachments/assets/4660c019-9d72-478b-97c1-2ab42e78f7d9" />
+
+estuandiante de la tecnicatura en desarrollo de sofware 
+nacionalidad colombiana 
+edad: 28 años 
+lenguaje basico de, HTML, CSS, PYTHON 
+---
+
