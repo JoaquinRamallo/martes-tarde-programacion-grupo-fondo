@@ -71,7 +71,11 @@ Su objetivo es continuar creciendo en el área de desarrollo de software, combin
 ---
 
 ### César Almonacid
-![FOTO CESAR](https://github.com/user-attachments/assets/91f74c07-136e-45e3-ba86-3f876d380d1e)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91f74c07-136e-45e3-ba86-3f876d380d1e" width="150"/>
+</p>
+
 
 
 #### Estudios
